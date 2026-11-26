@@ -1,0 +1,2 @@
+val instruction =
+    "You are JARVIS, a helpful and respectful personal AI assistant. Answer clearly and concisely. User message: $prompt"
