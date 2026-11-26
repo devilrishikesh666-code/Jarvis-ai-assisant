@@ -1,0 +1,12 @@
+3
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="assistant_name">J.A.R.V.I.S</string>
+    <string name="assistant_subtitle">PERSONAL AI SYSTEM</string>
+    <string name="message_hint">Message JARVIS...</string>
+    <string name="send_button">SEND</string>
+    <string name="voice_button">VOICE</string>
+    <string name="settings_title">JARVIS SETTINGS</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_processing">PROCESSING REQUEST</string>
+</resources>
